@@ -12,7 +12,7 @@
 <div>
 🧠 学习:
 </div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="Gherkin" alt="Gherkin" width="35" height="35"/> Gherkin
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-original.svg)"  title="Gherkin" alt="Gherkin" width="35" height="35"/> Cucumber
 </div>
 
 ## 👨‍💻 最佳项目
