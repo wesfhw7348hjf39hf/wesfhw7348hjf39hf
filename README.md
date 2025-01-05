@@ -5,25 +5,25 @@
 
 #### emacs lisp,Haskell和Gherkin的专业软件工程师
 
-💻 Languages:
+💻 编码语言:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/emacs/emacs-original.svg" title="Emacs Lisp" alt="Emacs Lisp" width="35"> Emacs Lisp <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/haskell/haskell-plain.svg" title="Haskell" alt="Haskell" width="35"> Haskell
 <div>
-🧠 Learning:
+🧠 学习:
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="Gherkin" alt="Gherkin" width="35" height="35"/> Gherkin
 </div>
 
-## 👨‍💻 Featured Project
+## 👨‍💻 最佳项目
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wesfhw7348hjf39hf&repo=rffuwfeufw89f9wrw3&theme=dark)](https://github.com/wesfhw7348hjf39hf/rffuwfeufw89f9wrw3)
 
 <details>
 <summary>
-  Stats
+  统计
 </summary>
 <br>
   
-  [![Remedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesfhw7348hjf39hf&show_icons=true&theme=dark)]
+  [![wesfhw7348hjf39hf's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesfhw7348hjf39hf&show_icons=true&theme=dark)]
 </details>
