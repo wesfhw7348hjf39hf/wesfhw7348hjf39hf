@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rremedyy&repo=note-saver&theme=dark)](https://github.com/rremedyy/note-saver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wesfhw7348hjf39hf&repo=rffuwfeufw89f9wrw3&theme=dark)](https://github.com/wesfhw7348hjf39hf/rffuwfeufw89f9wrw3)
 
 <details>
 <summary>
@@ -24,7 +24,7 @@
 </summary>
 <br>
   
-  ![Metrics](https://metrics.lecoq.io/rremedyy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FNew_York)
+  ![Metrics](https://metrics.lecoq.io/wesfhw7348hjf39hf?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FNew_York)
 </details>
 
 <details>
@@ -33,5 +33,5 @@
 </summary>
 <br>
   
-  [![Remedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rremedyy&show_icons=true&theme=dark)]
+  [![Remedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesfhw7348hjf39hf&show_icons=true&theme=dark)]
 </details>
